@@ -1,0 +1,718 @@
+{
+    "(TGB) Frankfurt Mainticores": [
+        50.110653,
+        8.682093
+    ],
+    "Alcorc\u00f3n Stags": [
+        40.3467624,
+        -3.8286315
+    ],
+    "Ardea Furens CUSPO": [
+        41.608712,
+        12.519382
+    ],
+    "Augsburg Owls": [
+        48.3668041,
+        10.8986971
+    ],
+    "Aut\u00f2noma\u2019s Ashwinders": [
+        41.5005953,
+        2.1067321
+    ],
+    "BOUN Centaurs": [
+        41.66854755,
+        26.5769434760342
+    ],
+    "BSI Rumpeldunk": [
+        60.3943532,
+        5.325551
+    ],
+    "Bangor Broken Broomsticks": [
+        53.2277187,
+        -4.1268821
+    ],
+    "Barcelona Eagles": [
+        41.3825596,
+        2.1771353
+    ],
+    "Bath Quidditch Club (Bathilisks)": [
+        51.3813864,
+        -2.3596962
+    ],
+    "Belfast": [
+        54.5969869,
+        -5.9300991
+    ],
+    "Berlin Bludgers": [
+        52.5170365,
+        13.3888599
+    ],
+    "Berlin Bluecaps": [
+        52.5170365,
+        13.3888599
+    ],
+    "Bielefeld Bludgers": [
+        52.010877,
+        8.540868
+    ],
+    "Bielefelder Basilisken": [
+        52.010877,
+        8.540868
+    ],
+    "Biella Bears Quidditch": [
+        45.5664109,
+        8.0542758
+    ],
+    "Bilkent Foxes": [
+        39.881951,
+        32.7584164
+    ],
+    "Binger Beasts": [
+        49.9667,
+        7.9
+    ],
+    "Bizkaia Boggarts": [
+        43.2382642,
+        -2.85220742898297
+    ],
+    "Black Diamond Silesia Miners": [
+        50.5687422,
+        19.2343995
+    ],
+    "Black Forest Bowtruckles": [
+        47.9960901,
+        7.8494005
+    ],
+    "Black Lions Quidditch Francavilla": [
+        41.207035,
+        14.7630486
+    ],
+    "Boggarts Schwarmstedt": [
+        52.6779686,
+        9.6180785
+    ],
+    "Bristol Brizzlepuffs (Bears)": [
+        51.453493,
+        -2.5973936
+    ],
+    "Bristol Brizzlepuffs (Bees)": [
+        51.453493,
+        -2.5973936
+    ],
+    "Brno Banshees": [
+        49.1922443,
+        16.6113382
+    ],
+    "Broom Breakers Quidditch": [
+        48.8123052,
+        9.1590308
+    ],
+    "Broomicorns Braunschweig": [
+        52.2639962,
+        10.5252669
+    ],
+    "Cambrai  Quidditch": [
+        50.1759602,
+        3.2356613
+    ],
+    "Cambridge University QC": [
+        52.2069625,
+        0.116133937528672
+    ],
+    "Cassovia Crows": [
+        48.7172272,
+        21.2496774
+    ],
+    "Chester Centurions": [
+        53.1908873,
+        -2.8908954
+    ],
+    "Club Jerez Quidditch": [
+        36.6816936,
+        -6.1377401
+    ],
+    "Cork": [
+        51.8979282,
+        -8.4705805
+    ],
+    "Danube Direwolves": [
+        48.1788209,
+        16.4744748
+    ],
+    "Darmstadt Athenas": [
+        49.872775,
+        8.651177
+    ],
+    "Deluminators Dresden": [
+        51.0493286,
+        13.7381437
+    ],
+    "Dementores de A Coru\u00f1a": [
+        43.1538815,
+        -8.58094170455789
+    ],
+    "Derby": [
+        52.9212617,
+        -1.476149
+    ],
+    "Dinosaur's Army (Vigo)": [
+        42.2376602,
+        -8.7247204
+    ],
+    "Dom Tower Dementors": [
+        52.0706841,
+        5.10345230439395
+    ],
+    "Dublin Dra\u00edochta Dragons": [
+        53.3497645,
+        -6.2602731
+    ],
+    "Durham Direwolves": [
+        54.7764152,
+        -1.5758538
+    ],
+    "Durhamstrang": [
+        54.7764152,
+        -1.5758538
+    ],
+    "D\u00fcsseldorf Dementors": [
+        51.2254018,
+        6.7763137
+    ],
+    "Erfurt Centaurs": [
+        50.9777974,
+        11.0287364
+    ],
+    "Exeter Eagles": [
+        50.7256471,
+        -3.526661
+    ],
+    "FMV ISIK Deluminators": [
+        40.9734545,
+        29.086374072956
+    ],
+    "Falmouth Falcons": [
+        50.1552197,
+        -5.0688261
+    ],
+    "Fenicis Furlanis Quidditch Team": [
+        45.8228339,
+        13.336382
+    ],
+    "Flying Foxes Karlsruhe": [
+        49.0140679,
+        8.4044366
+    ],
+    "GS Grizzlies": [
+        59.6918539,
+        9.12665447287107
+    ],
+    "Galway Grindylows": [
+        53.2744122,
+        -9.0490631
+    ],
+    "Gasteiz Gamusins": [
+        42.8464529,
+        -2.6724096
+    ],
+    "Gigantes de Arousa": [
+        42.5622257,
+        -8.826565
+    ],
+    "Gothenburg Griffins": [
+        57.7072326,
+        11.9670171
+    ],
+    "Grenoble Muggle Quidditch": [
+        45.182151,
+        5.7274722
+    ],
+    "Hacettepe Phoenix": [
+        39.9062529,
+        32.7330691
+    ],
+    "Hamburg Werewolves": [
+        53.550341,
+        10.000654
+    ],
+    "Hannover Niffler": [
+        52.3744779,
+        9.7385532
+    ],
+    "Heidelberger Hellhounds": [
+        49.4093582,
+        8.694724
+    ],
+    "Hipogrifos Cieza": [
+        38.2391277,
+        -1.4189644
+    ],
+    "HogYork Horntails": [
+        53.9590555,
+        -1.081536
+    ],
+    "Holyrood Hippogriffs 1": [
+        55.9495628,
+        -3.1914971
+    ],
+    "Holyrood Hippogriffs 2": [
+        55.9495628,
+        -3.1914971
+    ],
+    "Hydras Verona Quidditch Team": [
+        45.4384958,
+        10.9924122
+    ],
+    "ITU Bumblebees": [
+        41.1080367,
+        29.0208993
+    ],
+    "ITU Honeybees": [
+        41.1080367,
+        29.0208993
+    ],
+    "Imperius Zaragoza": [
+        40.8833884,
+        0.8022727
+    ],
+    "Jena Jobberknolls": [
+        50.9281717,
+        11.5879359
+    ],
+    "Katta Rumpeldunk": [
+        59.9210092,
+        10.7415067
+    ],
+    "Keele Krakens": [
+        53.0038078,
+        -2.2877424
+    ],
+    "Keele Squirrels": [
+        53.0038078,
+        -2.2877424
+    ],
+    "Krak\u00f3w Dragons": [
+        50.0619474,
+        19.9368564
+    ],
+    "LKPG Quidditch": [
+        58.4098135,
+        15.6245252
+    ],
+    "Lancaster": [
+        54.0484068,
+        -2.7990344
+    ],
+    "Leeds Griffins": [
+        53.7974185,
+        -1.543794
+    ],
+    "Leicester Thestrals": [
+        52.6367811,
+        -1.1312288
+    ],
+    "Les Druides d'Orl\u00e9ans": [
+        47.9027336,
+        1.9086066
+    ],
+    "Les Magyars \u00e0 pintes Tours": [
+        47.3900474,
+        0.6889268
+    ],
+    "Les Maraudeurs de Rennes Bruz": [
+        48.0254614,
+        -1.7373357
+    ],
+    "Les Requins Rouges": [
+        46.0363902,
+        4.0738682
+    ],
+    "Les Thestrals de Tournai": [
+        50.60566,
+        3.3878259
+    ],
+    "Les Trolls de Troyes": [
+        48.2971626,
+        4.0746257
+    ],
+    "Levante Phoenix": [
+        39.4699014,
+        -0.3759512
+    ],
+    "Levante Quidditch": [
+        44.40781925,
+        9.03556275285009
+    ],
+    "Lilium Florentia": [
+        43.7698712,
+        11.2555757
+    ],
+    "London Unspeakables": [
+        51.5073219,
+        -0.1276473
+    ],
+    "Looping Lux Leipzig": [
+        51.3391827,
+        12.3810549
+    ],
+    "Lorraine Quidditch": [
+        48.71557405,
+        6.14246019610069
+    ],
+    "Loughborough Longshots": [
+        52.7723859,
+        -1.2077984
+    ],
+    "Lucerne / Luzern Quidditch": [
+        47.0505452,
+        8.3054682
+    ],
+    "Lucus Centauri (Lugo)": [
+        43.0396042,
+        -7.45660706650957
+    ],
+    "Lumos Compostela": [
+        42.8804219,
+        -8.5458607
+    ],
+    "METU Minicorns": [
+        39.87549675,
+        32.7855350558467
+    ],
+    "METU Ponicorns": [
+        39.87549675,
+        32.7855350558467
+    ],
+    "METU Unicorns": [
+        39.87549675,
+        32.7855350558467
+    ],
+    "Madrid Lynx": [
+        40.4167047,
+        -3.7035824
+    ],
+    "Madrid Wolves": [
+        40.4167047,
+        -3.7035824
+    ],
+    "Malaka Vikings": [
+        43.1425585,
+        -2.09635170111853
+    ],
+    "Malmsheimer Muggle": [
+        48.7746041,
+        8.9031962
+    ],
+    "Mannheimer Greife": [
+        49.489591,
+        8.467236
+    ],
+    "Marseille": [
+        43.2961743,
+        5.3699525
+    ],
+    "Montpellier quidditch": [
+        43.6112422,
+        3.8767337
+    ],
+    "M\u00fcnchen Wolpertinger": [
+        48.1371079,
+        11.5753822
+    ],
+    "M\u00fcnster Marauders": [
+        51.9501317,
+        7.61330165026119
+    ],
+    "NMBU Rumpeldunk": [
+        59.6679155,
+        10.7621987412976
+    ],
+    "NTNUI Rumpeldunk": [
+        63.4305658,
+        10.3951929
+    ],
+    "Nightmare Grims": [
+        41.1172364,
+        1.2546057
+    ],
+    "Nissa Ratapignata": [
+        43.7009358,
+        7.2683912
+    ],
+    "North Sea Nargles": [
+        52.1518157,
+        4.48110886662043
+    ],
+    "Norwich Nifflers": [
+        52.628606,
+        1.29227
+    ],
+    "Nottingham Nightmares": [
+        52.9534161,
+        -1.1492772
+    ],
+    "ODTU Hippogriffs": [
+        39.87549675,
+        32.7855350558467
+    ],
+    "ODTU Hippogriffs B": [
+        39.87549675,
+        32.7855350558467
+    ],
+    "OSI Quidditch": [
+        59.9132694,
+        10.7391112
+    ],
+    "Oxford Quidlings": [
+        51.7520131,
+        -1.2578498
+    ],
+    "O\u2019Chim\u00e8re   Auch quidditch": [
+        43.6463558,
+        0.5850507
+    ],
+    "Padova": [
+        45.4077172,
+        11.8734455
+    ],
+    "Paris Ph\u00e9nix": [
+        48.8566101,
+        2.3514992
+    ],
+    "Pontevedra Q.C.": [
+        42.36226445,
+        -8.53350397214213
+    ],
+    "Portkeys Bremen": [
+        53.0758196,
+        8.8071646
+    ],
+    "Portsmouth Horntail Strikers": [
+        50.8036831,
+        -1.0756139
+    ],
+    "Pozna\u0144 Capricorns": [
+        52.4082663,
+        16.9335199
+    ],
+    "Prague Pegasus": [
+        50.0874654,
+        14.4212503
+    ],
+    "Pressburg Phantoms": [
+        48.1359085,
+        17.1597440625
+    ],
+    "QC Wevelgem Wyverns": [
+        50.8121065,
+        3.18644500626665
+    ],
+    "Quidditch Bamberg": [
+        49.8926723,
+        10.8876149
+    ],
+    "Quidditch Eberswalde": [
+        52.8351496,
+        13.7997011
+    ],
+    "Quidditch Hussars": [
+        52.2319237,
+        21.0067265
+    ],
+    "Quidditch Ljubljana": [
+        46.049865,
+        14.5068921
+    ],
+    "Quidditch Perpignan": [
+        42.6953868,
+        2.8844713
+    ],
+    "Radcliffe Chimeras": [
+        53.5593382,
+        -2.3261545
+    ],
+    "Raging Broomsticks Paderborn": [
+        51.71895955,
+        8.76486977817756
+    ],
+    "Reading Rocs": [
+        51.44505055,
+        -0.946188683730633
+    ],
+    "Rheinos Bonn": [
+        50.735851,
+        7.10066
+    ],
+    "Rotterdam Ravens": [
+        51.92779805,
+        4.48862326925829
+    ],
+    "Ruhr Poenix (Bochum)": [
+        51.4818036,
+        7.2196595
+    ],
+    "SPQR Quidditch Roma": [
+        41.8935085,
+        12.4825526
+    ],
+    "SQC2": [
+        50.9025349,
+        -1.4041889
+    ],
+    "SanssouSea Serpents Potsdam": [
+        52.4009309,
+        13.0591397
+    ],
+    "Schnigard Quidditch Club": [
+        59.9132694,
+        10.7391112
+    ],
+    "Schwwp Quidditch": [
+        63.8256568,
+        20.2630745
+    ],
+    "Sevilla Warriors": [
+        37.3886303,
+        -5.995317
+    ],
+    "Shades Quidditch": [
+        39.86742125,
+        32.7351907206768
+    ],
+    "Sheffield Squids": [
+        53.3806626,
+        -1.4702277
+    ],
+    "Silver Strasbrooms": [
+        48.584614,
+        7.7507127
+    ],
+    "SkyHogs Berlin": [
+        52.5170365,
+        13.3888599
+    ],
+    "Sonic Brooms": [
+        48.53034015,
+        2.23929180566817
+    ],
+    "Southampton (SQC1)": [
+        50.9025349,
+        -1.4041889
+    ],
+    "St Andrews (Snidgets)": [
+        52.6281121,
+        -1.1376907
+    ],
+    "St. Olav VGS": [
+        60.9522691,
+        11.1602265
+    ],
+    "Stirling": [
+        56.1181242,
+        -3.9360011
+    ],
+    "Stockholms QS": [
+        59.3251172,
+        18.0710935
+    ],
+    "Surrey Stags": [
+        51.2715316,
+        -0.341452301129091
+    ],
+    "Swansea Seven Swans": [
+        51.6211442,
+        -3.946775
+    ],
+    "Taxes Quidditch": [
+        51.5307532,
+        -0.1041488
+    ],
+    "The Northern Pixies": [
+        53.2217925,
+        6.55824533479853
+    ],
+    "Thestrals Granada QT": [
+        37.1830197,
+        -3.6021919
+    ],
+    "Three River Dragons Passau": [
+        48.5740136,
+        13.4606445
+    ],
+    "Thunderbirds Trier": [
+        49.7596208,
+        6.6441878
+    ],
+    "Trondheim Rumpeldunk": [
+        63.4305658,
+        10.3951929
+    ],
+    "Twentse Thestrals": [
+        52.2533932,
+        6.171014
+    ],
+    "T\u00fcbinger Thestrale": [
+        48.5236164,
+        9.0535531
+    ],
+    "UPOL Quidditch": [
+        49.5943599,
+        17.2469124
+    ],
+    "Uluda\u011f Aragog's": [
+        40.0710098,
+        29.2215753
+    ],
+    "Uluda\u011f Basilisks": [
+        40.0710098,
+        29.2215753
+    ],
+    "Uppsala Quidditch": [
+        59.8594126,
+        17.64112
+    ],
+    "Valkyrie  Valence": [
+        44.9332277,
+        4.8920811
+    ],
+    "Velociraptors QC": [
+        50.5988926,
+        -4.1006856
+    ],
+    "Vienna Vanguards": [
+        48.2083537,
+        16.3725042
+    ],
+    "Wageningen Werewolves": [
+        51.9685817,
+        5.66829806182796
+    ],
+    "Warsaw Mermaids": [
+        52.2319237,
+        21.0067265
+    ],
+    "Warwick Quidditch Club": [
+        52.2850815,
+        -1.5785411
+    ],
+    "Werewolves of London": [
+        51.5073219,
+        -0.1276473
+    ],
+    "Westtown Quidditch": [
+        59.55985625,
+        10.7118650915287
+    ],
+    "Wild Unicorns Quidditch": [
+        43.3113449,
+        10.5173443
+    ],
+    "Wroc\u0142aw Wanderers": [
+        51.1089776,
+        17.0326689
+    ],
+    "Z\u00fcrich / Zurich Quidditch": [
+        47.3685586,
+        8.5404434
+    ]
+}

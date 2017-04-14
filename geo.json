@@ -1,0 +1,2690 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    16.4744748,
+                    48.1788209
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "J\u00fcrgen Brandl",
+                "name": "Danube Direwolves",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    16.3725042,
+                    48.2083537
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Dominik Heinzl",
+                "name": "Vienna Vanguards",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.3878259,
+                    50.60566
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Emilie Viaene",
+                "name": "Les Thestrals de Tournai",
+                "recognised": false
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.18644500626665,
+                    50.8121065
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "",
+                "name": "QC Wevelgem Wyverns",
+                "recognised": false
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.1771353,
+                    41.3825596
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Marc Gargant\u00e9",
+                "name": "Barcelona Eagles",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    0.8022727,
+                    40.8833884
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Noelia Do\u00f1ate",
+                "name": "Imperius Zaragoza",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.2546057,
+                    41.1172364
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Angel Miguel",
+                "name": "Nightmare Grims",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.1067321,
+                    41.5005953
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "",
+                "name": "Aut\u00f2noma\u2019s Ashwinders",
+                "recognised": false
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    16.6113382,
+                    49.1922443
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Ond\u0159ej Huj\u0148\u00e1k",
+                "name": "Brno Banshees",
+                "recognised": false
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.2469124,
+                    49.5943599
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Mark\u00e9ta \u0160\u0165ov\u00ed\u010dkova",
+                "name": "UPOL Quidditch",
+                "recognised": false
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.4212503,
+                    50.0874654
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Michael \u0160k\u00e1cha",
+                "name": "Prague Pegasus",
+                "recognised": false
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.2356613,
+                    50.1759602
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Guilhem      Emmanuel",
+                "name": "Cambrai  Quidditch",
+                "recognised": false
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    5.7274722,
+                    45.182151
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "",
+                "name": "Grenoble Muggle Quidditch",
+                "recognised": false
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.9086066,
+                    47.9027336
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "",
+                "name": "Les Druides d'Orl\u00e9ans",
+                "recognised": false
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    0.6889268,
+                    47.3900474
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "H\u00e9loise  Fouillat",
+                "name": "Les Magyars \u00e0 pintes Tours",
+                "recognised": false
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.7373357,
+                    48.0254614
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "",
+                "name": "Les Maraudeurs de Rennes Bruz",
+                "recognised": false
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    4.0738682,
+                    46.0363902
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Roannais",
+                "name": "Les Requins Rouges",
+                "recognised": false
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    4.0746257,
+                    48.2971626
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "",
+                "name": "Les Trolls de Troyes",
+                "recognised": false
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    6.14246019610069,
+                    48.71557405
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Epinal Nancy, Metz et Lun\u00e9ville - Solyane Evans",
+                "name": "Lorraine Quidditch",
+                "recognised": false
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    5.3699525,
+                    43.2961743
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "",
+                "name": "Marseille",
+                "recognised": false
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.8767337,
+                    43.6112422
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Black Wands - Lili Mesle Potter",
+                "name": "Montpellier quidditch",
+                "recognised": false
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    7.2683912,
+                    43.7009358
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Nice Muggle Quidditch Team - Numa Acsob",
+                "name": "Nissa Ratapignata",
+                "recognised": false
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    0.5850507,
+                    43.6463558
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Miguel Helly",
+                "name": "O\u2019Chim\u00e8re   Auch quidditch",
+                "recognised": false
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3514992,
+                    48.8566101
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "",
+                "name": "Paris Ph\u00e9nix",
+                "recognised": false
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.8844713,
+                    42.6953868
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Jos\u00e9 Claveria",
+                "name": "Quidditch Perpignan",
+                "recognised": false
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    7.7507127,
+                    48.584614
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Esther",
+                "name": "Silver Strasbrooms",
+                "recognised": false
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.23929180566817,
+                    48.53034015
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Thomas Bourgoin",
+                "name": "Sonic Brooms",
+                "recognised": false
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    4.8920811,
+                    44.9332277
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Muggle Quidditch \u2013 Sylvain",
+                "name": "Valkyrie  Valence",
+                "recognised": false
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    10.8986971,
+                    48.3668041
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Monika Parzinger",
+                "name": "Augsburg Owls",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.3888599,
+                    52.5170365
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Denny Ruddeck",
+                "name": "Berlin Bludgers",
+                "recognised": false
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.3888599,
+                    52.5170365
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Julia Frieling",
+                "name": "Berlin Bluecaps",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    8.540868,
+                    52.010877
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Mario Schmiedebach",
+                "name": "Bielefelder Basilisken",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    8.540868,
+                    52.010877
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Bj\u00f6rn Hansen",
+                "name": "Bielefeld Bludgers",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    7.9,
+                    49.9667
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Florian Hof",
+                "name": "Binger Beasts",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    7.8494005,
+                    47.9960901
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Adrian Schleeh",
+                "name": "Black Forest Bowtruckles",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    10.5252669,
+                    52.2639962
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Carla Wettlaufer",
+                "name": "Broomicorns Braunschweig",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    9.1590308,
+                    48.8123052
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Christian Riel",
+                "name": "Broom Breakers Quidditch",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    9.6180785,
+                    52.6779686
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Joshua Wissenbach",
+                "name": "Boggarts Schwarmstedt",
+                "recognised": false
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    8.651177,
+                    49.872775
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Philipp Dahlhaus",
+                "name": "Darmstadt Athenas",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.7381437,
+                    51.0493286
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Lea Scheuvens und Lucas Scheuvens",
+                "name": "Deluminators Dresden",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    6.7763137,
+                    51.2254018
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Dennis Hielscher",
+                "name": "D\u00fcsseldorf Dementors",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    11.0287364,
+                    50.9777974
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Nicole Krannich",
+                "name": "Erfurt Centaurs",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    8.4044366,
+                    49.0140679
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "David Bentz",
+                "name": "Flying Foxes Karlsruhe",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    8.682093,
+                    50.110653
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Nina Heise",
+                "name": "(TGB) Frankfurt Mainticores",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    10.000654,
+                    53.550341
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Timo Damk\u00f6hler & Tristan D\u00fcck",
+                "name": "Hamburg Werewolves",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    9.7385532,
+                    52.3744779
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Konrad Drefs",
+                "name": "Hannover Niffler",
+                "recognised": false
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    8.694724,
+                    49.4093582
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Lena Steuer",
+                "name": "Heidelberger Hellhounds",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    11.5879359,
+                    50.9281717
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Sarah  Kempf",
+                "name": "Jena Jobberknolls",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.3810549,
+                    51.3391827
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Henriette Schreurs",
+                "name": "Looping Lux Leipzig",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    8.9031962,
+                    48.7746041
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Julia Schirmer",
+                "name": "Malmsheimer Muggle",
+                "recognised": false
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    8.467236,
+                    49.489591
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Justine Kreutzer",
+                "name": "Mannheimer Greife",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    11.5753822,
+                    48.1371079
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Ren\u00e9 Schneider",
+                "name": "M\u00fcnchen Wolpertinger",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    7.61330165026119,
+                    51.9501317
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Motte M\u00fcller",
+                "name": "M\u00fcnster Marauders",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    8.8071646,
+                    53.0758196
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Jonas Becker",
+                "name": "Portkeys Bremen",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    10.8876149,
+                    49.8926723
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Kristina Steinhauf",
+                "name": "Quidditch Bamberg",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.7997011,
+                    52.8351496
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Jule Wot",
+                "name": "Quidditch Eberswalde",
+                "recognised": false
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    8.76486977817756,
+                    51.71895955
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Laura Schulte",
+                "name": "Raging Broomsticks Paderborn",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    7.10066,
+                    50.735851
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Leander Troll",
+                "name": "Rheinos Bonn",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    7.2196595,
+                    51.4818036
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Miriam Qua\u00df",
+                "name": "Ruhr Poenix (Bochum)",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.0591397,
+                    52.4009309
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Lisa Becker",
+                "name": "SanssouSea Serpents Potsdam",
+                "recognised": false
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.3888599,
+                    52.5170365
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Viktor Bashmakov",
+                "name": "SkyHogs Berlin",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.4606445,
+                    48.5740136
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Christian H\u00e4user",
+                "name": "Three River Dragons Passau",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    6.6441878,
+                    49.7596208
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Tanja Lotzmann",
+                "name": "Thunderbirds Trier",
+                "recognised": false
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    9.0535531,
+                    48.5236164
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Ina Berner",
+                "name": "T\u00fcbinger Thestrale",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -5.9300991,
+                    54.5969869
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "",
+                "name": "Belfast",
+                "recognised": false
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.4705805,
+                    51.8979282
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "",
+                "name": "Cork",
+                "recognised": false
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -6.2602731,
+                    53.3497645
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Martina Brazdova, Stevo El G\u00fcerito Schrr",
+                "name": "Dublin Dra\u00edochta Dragons",
+                "recognised": false
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -9.0490631,
+                    53.2744122
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "",
+                "name": "Galway Grindylows",
+                "recognised": false
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.519382,
+                    41.608712
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Quidditch            -",
+                "name": "Ardea Furens CUSPO",
+                "recognised": false
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    8.0542758,
+                    45.5664109
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Veronica Rosazza Prin",
+                "name": "Biella Bears Quidditch",
+                "recognised": false
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.7630486,
+                    41.207035
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "",
+                "name": "Black Lions Quidditch Francavilla",
+                "recognised": false
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.336382,
+                    45.8228339
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Mara Colautti",
+                "name": "Fenicis Furlanis Quidditch Team",
+                "recognised": false
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    10.9924122,
+                    45.4384958
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Francesco Fava",
+                "name": "Hydras Verona Quidditch Team",
+                "recognised": false
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    9.03556275285009,
+                    44.40781925
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Luigi Ladisa",
+                "name": "Levante Quidditch",
+                "recognised": false
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    11.2555757,
+                    43.7698712
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Lorenzo Cracolici",
+                "name": "Lilium Florentia",
+                "recognised": false
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.4825526,
+                    41.8935085
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Edoardo Montegrandi",
+                "name": "SPQR Quidditch Roma",
+                "recognised": false
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    11.8734455,
+                    45.4077172
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "",
+                "name": "Padova",
+                "recognised": false
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    10.5173443,
+                    43.3113449
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Yannic Talarico",
+                "name": "Wild Unicorns Quidditch",
+                "recognised": false
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    4.48110886662043,
+                    52.1518157
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Rein Anspach",
+                "name": "North Sea Nargles",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    5.66829806182796,
+                    51.9685817
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Clio Plowman",
+                "name": "Wageningen Werewolves",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    5.10345230439395,
+                    52.0706841
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Nick van Klaveren",
+                "name": "Dom Tower Dementors",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    6.171014,
+                    52.2533932
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Laurence Nijenboer",
+                "name": "Twentse Thestrals",
+                "recognised": false
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    6.55824533479853,
+                    53.2217925
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Kim N\u00f6lke & Desiree Niezen",
+                "name": "The Northern Pixies",
+                "recognised": false
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    4.48862326925829,
+                    51.92779805
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Jerona van der Gevel & Arjen van Assem",
+                "name": "Rotterdam Ravens",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    10.3951929,
+                    63.4305658
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Inger Viken",
+                "name": "NTNUI Rumpeldunk",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    10.7391112,
+                    59.9132694
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Kai Haugen Shaw",
+                "name": "OSI Quidditch",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    10.7621987412976,
+                    59.6679155
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Even Bremnes Stokke",
+                "name": "NMBU Rumpeldunk",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    10.7415067,
+                    59.9210092
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Ulrik Olsen",
+                "name": "Katta Rumpeldunk",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    10.7118650915287,
+                    59.55985625
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "",
+                "name": "Westtown Quidditch",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    9.12665447287107,
+                    59.6918539
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Lukas Skoe",
+                "name": "GS Grizzlies",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    5.325551,
+                    60.3943532
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Dyveke Hatling",
+                "name": "BSI Rumpeldunk",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    10.3951929,
+                    63.4305658
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "",
+                "name": "Trondheim Rumpeldunk",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    10.7391112,
+                    59.9132694
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Georg Ness",
+                "name": "Schnigard Quidditch Club",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    11.1602265,
+                    60.9522691
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "",
+                "name": "St. Olav VGS",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.0326689,
+                    51.1089776
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Maja Bartnik",
+                "name": "Wroc\u0142aw Wanderers",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    19.2343995,
+                    50.5687422
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Magdalena Piekarczyk",
+                "name": "Black Diamond Silesia Miners",
+                "recognised": false
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    21.0067265,
+                    52.2319237
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Jagoda Sadecka",
+                "name": "Quidditch Hussars",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    21.0067265,
+                    52.2319237
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Joanna Cielecka",
+                "name": "Warsaw Mermaids",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    19.9368564,
+                    50.0619474
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Maria Helak",
+                "name": "Krak\u00f3w Dragons",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    16.9335199,
+                    52.4082663
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Monika Ma\u0107kowiak",
+                "name": "Pozna\u0144 Capricorns",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.1597440625,
+                    48.1359085
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Marta Ku\u010dmov\u00e1",
+                "name": "Pressburg Phantoms",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    21.2496774,
+                    48.7172272
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Martin \u201cCerebro\u201d \u010curnek",
+                "name": "Cassovia Crows",
+                "recognised": false
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.5068921,
+                    46.049865
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Timotej Sokli\u010d",
+                "name": "Quidditch Ljubljana",
+                "recognised": false
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -3.8286315,
+                    40.3467624
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Pablo Barbas",
+                "name": "Alcorc\u00f3n Stags",
+                "recognised": false
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.85220742898297,
+                    43.2382642
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Yeray Espinosa",
+                "name": "Bizkaia Boggarts",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -6.1377401,
+                    36.6816936
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Sergio \u00c1lvarez & Rafael Fern\u00e1ndez",
+                "name": "Club Jerez Quidditch",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.58094170455789,
+                    43.1538815
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Chris Luongo",
+                "name": "Dementores de A Coru\u00f1a",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.7247204,
+                    42.2376602
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Iria Collazo",
+                "name": "Dinosaur's Army (Vigo)",
+                "recognised": false
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.6724096,
+                    42.8464529
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Marina Everdale",
+                "name": "Gasteiz Gamusins",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.4189644,
+                    38.2391277
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "",
+                "name": "Hipogrifos Cieza",
+                "recognised": false
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.826565,
+                    42.5622257
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "",
+                "name": "Gigantes de Arousa",
+                "recognised": false
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.3759512,
+                    39.4699014
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Sergio Catal\u00e1n",
+                "name": "Levante Phoenix",
+                "recognised": false
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -7.45660706650957,
+                    43.0396042
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Ana Corbeira",
+                "name": "Lucus Centauri (Lugo)",
+                "recognised": false
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.5458607,
+                    42.8804219
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Pedro Mui\u00f1os",
+                "name": "Lumos Compostela",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -3.7035824,
+                    40.4167047
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Diego \u00c1vila",
+                "name": "Madrid Lynx",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -3.7035824,
+                    40.4167047
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Daniel B\u00e1scones",
+                "name": "Madrid Wolves",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.09635170111853,
+                    43.1425585
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Bienve Moreno",
+                "name": "Malaka Vikings",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -8.53350397214213,
+                    42.36226445
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Chiki MC",
+                "name": "Pontevedra Q.C.",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -5.995317,
+                    37.3886303
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Dani Ony",
+                "name": "Sevilla Warriors",
+                "recognised": false
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -3.6021919,
+                    37.1830197
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Carmen Gonz\u00e1lez & Paco Fern\u00e1ndez",
+                "name": "Thestrals Granada QT",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    11.9670171,
+                    57.7072326
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Hugo Hallberg",
+                "name": "Gothenburg Griffins",
+                "recognised": false
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    15.6245252,
+                    58.4098135
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "",
+                "name": "LKPG Quidditch",
+                "recognised": false
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    20.2630745,
+                    63.8256568
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "",
+                "name": "Schwwp Quidditch",
+                "recognised": false
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    18.0710935,
+                    59.3251172
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "",
+                "name": "Stockholms QS",
+                "recognised": false
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.64112,
+                    59.8594126
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "",
+                "name": "Uppsala Quidditch",
+                "recognised": false
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    8.5404434,
+                    47.3685586
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "",
+                "name": "Z\u00fcrich / Zurich Quidditch",
+                "recognised": false
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    8.3054682,
+                    47.0505452
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "",
+                "name": "Lucerne / Luzern Quidditch",
+                "recognised": false
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    32.7584164,
+                    39.881951
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Selen Sar\u0131kaya & Ay\u015fe Nur Ak\u0131nc\u0131",
+                "name": "Bilkent Foxes",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    26.5769434760342,
+                    41.66854755
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "\u00c7a\u011fatay Ural & \u0130smail \u015eahin",
+                "name": "BOUN Centaurs",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    29.086374072956,
+                    40.9734545
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Furkan Oktay Sevimli & \u00c7a\u011fda\u015f Metin",
+                "name": "FMV ISIK Deluminators",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    32.7330691,
+                    39.9062529
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Simay Handan Konuk & An\u0131l Hamdi Tural",
+                "name": "Hacettepe Phoenix",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    29.0208993,
+                    41.1080367
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "\u0130dil Ulusoy & Berk Aky\u00fcz",
+                "name": "ITU Honeybees",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    29.0208993,
+                    41.1080367
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Y\u0131lmaz Ba\u015farer & Benan Emre",
+                "name": "ITU Bumblebees",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    32.7855350558467,
+                    39.87549675
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Emre S\u00f6nmez & Fatih Ko\u015far",
+                "name": "METU Minicorns",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    32.7855350558467,
+                    39.87549675
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "B\u00fc\u015fra \u00d6z & Anda\u00e7 \u00d6zt\u00fcrk",
+                "name": "METU Ponicorns",
+                "recognised": false
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    32.7855350558467,
+                    39.87549675
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Emin \u00dcn & S\u0131la Y\u00fcksel",
+                "name": "METU Unicorns",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    32.7855350558467,
+                    39.87549675
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Rojcan Azbay & Tunahan \u00d6zdemir",
+                "name": "ODTU Hippogriffs",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    32.7855350558467,
+                    39.87549675
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Kerimcan \u00dcrel & Sima Ayd\u0131n",
+                "name": "ODTU Hippogriffs B",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    32.7351907206768,
+                    39.86742125
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Tarkan G\u00f6kkaya & G\u00fcnay Ko\u00e7",
+                "name": "Shades Quidditch",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    29.2215753,
+                    40.0710098
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Nazif Bilgen & Ba\u015far Karamuk",
+                "name": "Uluda\u011f Aragog's",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    29.2215753,
+                    40.0710098
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "An\u0131l \u015eim\u015fek & Emre Erta\u015f",
+                "name": "Uluda\u011f Basilisks",
+                "recognised": false
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -4.1268821,
+                    53.2277187
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Jay Holmes",
+                "name": "Bangor Broken Broomsticks",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.3596962,
+                    51.3813864
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Thomas Newton",
+                "name": "Bath Quidditch Club (Bathilisks)",
+                "recognised": false
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.5973936,
+                    51.453493
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Alistair Goodwin",
+                "name": "Bristol Brizzlepuffs (Bears)",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.5973936,
+                    51.453493
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Charlie Brooks",
+                "name": "Bristol Brizzlepuffs (Bees)",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    0.116133937528672,
+                    52.2069625
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Thomas Hardman",
+                "name": "Cambridge University QC",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.8908954,
+                    53.1908873
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Olly Barker",
+                "name": "Chester Centurions",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.476149,
+                    52.9212617
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Hugo Illing",
+                "name": "Derby",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.5758538,
+                    54.7764152
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Marcus Buechel",
+                "name": "Durhamstrang",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.5758538,
+                    54.7764152
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Alexander Lusty",
+                "name": "Durham Direwolves",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -3.526661,
+                    50.7256471
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Ryan Watkiss",
+                "name": "Exeter Eagles",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -3.1914971,
+                    55.9495628
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Ollie Riley",
+                "name": "Holyrood Hippogriffs 1",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -3.1914971,
+                    55.9495628
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Bob Pratt",
+                "name": "Holyrood Hippogriffs 2",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -5.0688261,
+                    50.1552197
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Nathan Jones",
+                "name": "Falmouth Falcons",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.2877424,
+                    53.0038078
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Scott Hopkins",
+                "name": "Keele Squirrels",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.2877424,
+                    53.0038078
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Tom Berey",
+                "name": "Keele Krakens",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.7990344,
+                    54.0484068
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "",
+                "name": "Lancaster",
+                "recognised": false
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.543794,
+                    53.7974185
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Sash Steele",
+                "name": "Leeds Griffins",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.1312288,
+                    52.6367811
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Zoe Harrison",
+                "name": "Leicester Thestrals",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.1276473,
+                    51.5073219
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Fiona Howat & Sam Townsend",
+                "name": "London Unspeakables",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.2077984,
+                    52.7723859
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Dan Bridges",
+                "name": "Loughborough Longshots",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.29227,
+                    52.628606
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Georgie Rumney",
+                "name": "Norwich Nifflers",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.1492772,
+                    52.9534161
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Michael Ansell",
+                "name": "Nottingham Nightmares",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -2.3261545,
+                    53.5593382
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Mark Richards",
+                "name": "Radcliffe Chimeras",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.2578498,
+                    51.7520131
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Gemma Golder",
+                "name": "Oxford Quidlings",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.0756139,
+                    50.8036831
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Victoria Sadler",
+                "name": "Portsmouth Horntail Strikers",
+                "recognised": false
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.946188683730633,
+                    51.44505055
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Jake Veryard",
+                "name": "Reading Rocs",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.4702277,
+                    53.3806626
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Eddie Bruce",
+                "name": "Sheffield Squids",
+                "recognised": false
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.4041889,
+                    50.9025349
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "David Holland",
+                "name": "Southampton (SQC1)",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.4041889,
+                    50.9025349
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Joel Davis",
+                "name": "SQC2",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.1376907,
+                    52.6281121
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Sam Bunce",
+                "name": "St Andrews (Snidgets)",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -3.9360011,
+                    56.1181242
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Rosemary Brittain -",
+                "name": "Stirling",
+                "recognised": false
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.341452301129091,
+                    51.2715316
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Haroon Shah",
+                "name": "Surrey Stags",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -3.946775,
+                    51.6211442
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Ed Brett",
+                "name": "Swansea Seven Swans",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.1041488,
+                    51.5307532
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "William Johnson",
+                "name": "Taxes Quidditch",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.5785411,
+                    52.2850815
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Hannah Dignum",
+                "name": "Warwick Quidditch Club",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.1276473,
+                    51.5073219
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Simon Bidwell",
+                "name": "Werewolves of London",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -4.1006856,
+                    50.5988926
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Tom Heynes",
+                "name": "Velociraptors QC",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.081536,
+                    53.9590555
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Lizzie Keegan",
+                "name": "HogYork Horntails",
+                "recognised": true
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
