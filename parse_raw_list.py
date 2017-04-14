@@ -11,7 +11,7 @@ GPS_FILE_NAME = 'gps.txt'
 FIRST_COUNTRY = 'Austria'
 
 def parse_team_string(s):
-    regex = r"^([^\-\–*()]*(?:\([\w\-\–]*\))?[^\-\–*()]*)[\-\– ]*(\*)?[\-\– ]*(.*)$"
+    regex = r"^([^\-\–*()]*(?:\([\w\-\–]*\))?[^\-\–*()]*)[\-\– ]*(\*)?[\-\– ]*(.*)"
     m = re.search(regex, s)
     team = m.group(1).strip()
     recognised = m.group(2) == '*'
@@ -56,7 +56,9 @@ for child in main_part:
             current_country = s.strip()
     else:
         team_list = child.contents
-        country_dict[current_country] = []
+        if current_country not in country_dict:
+            country_dict[current_country] = []
+
         for team in team_list:
             print("Team: " + team.string)
             country_dict[current_country].append(parse_team_string(team.string))

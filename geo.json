@@ -33,6 +33,171 @@
         {
             "geometry": {
                 "coordinates": [
+                    3.2261497,
+                    51.2082905
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Jens De Graeve",
+                "name": "Bruges Bridgebacks",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    4.351697,
+                    50.8465565
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Lana Naudts & Chayenne Van Meel (Capi & Pitaine)",
+                "name": "Brussels Qwaffles",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    4.4719297,
+                    51.20849
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Willem Ardui",
+                "name": "Deurne Dodo A",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    4.4719297,
+                    51.20849
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Jan Dubois",
+                "name": "Deurne Dodo B",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.7250121,
+                    51.0538286
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Joke Daems",
+                "name": "Ghent Gargoyles",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    5.3378043,
+                    50.9303735
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Jana Meers & Inke Gieghase",
+                "name": "Hasselt Horntails",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.951958,
+                    50.4549568
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Blaise Jottrand",
+                "name": "UMonsters",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    4.61415673172108,
+                    50.6741689
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "G\u00e9raldine Wuyckens & Louis Lemercier",
+                "name": "Les Dracognards",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    4.7011675,
+                    50.879202
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Wendy Urbai",
+                "name": "Leuven Leprechauns",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    4.8661892,
+                    50.4665284
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Jonathan Carette",
+                "name": "Les Namusards",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    5.5734203,
+                    50.6451381
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Arnaud Bourdoux",
+                "name": "Li\u00e8ge Leviathans",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
                     3.3878259,
                     50.60566
                 ],
@@ -162,6 +327,246 @@
                 "captain": "Michael \u0160k\u00e1cha",
                 "name": "Prague Pegasus",
                 "recognised": false
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.5800363,
+                    44.841225
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Ingrid Vezy",
+                "name": "Bacchus Bordeaux Quidditch",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    4.7037832,
+                    49.7795851
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Minine Schmetterling",
+                "name": "Bayards d'argent (Reims-Charleville)",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.3690814,
+                    49.1828008
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Jennifer Larivi\u00e8re",
+                "name": "Burning Hippogriffs de Caen",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.0819427,
+                    45.7774551
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Sylvain Godin",
+                "name": "Comrunos Animagix (Clermont-Ferrand)",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    4.8320114,
+                    45.7578137
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Alice Godot P\u00e9ronnet",
+                "name": "Crookshanks Lyon Quidditch",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.5541361,
+                    47.2186371
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Nantes Quidditch *  - Ma\u00ebva Lucas",
+                "name": "\u00c9l\u00e9phants",
+                "recognised": false
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    5.0414701,
+                    47.3215806
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Veronika Micudova",
+                "name": "Golden Owls de Dijon",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3514992,
+                    48.8566101
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Alexandre Folliot",
+                "name": "Les Faucons fran\u00e7ais",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -0.5515587,
+                    47.4739884
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Kevin  Leray",
+                "name": "Les Harfangs d'Angers",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    -1.6800197,
+                    48.1113387
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "C\u00e9lie Josse-Chevrollier",
+                "name": "Les Hermines de Rennes, Ermined Roazhon",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.0706414,
+                    50.6305089
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "J\u00e9r\u00f4me S Vi",
+                "name": "Lille  Black Snitches",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    42.7246482,
+                    -17.0548848
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Fiona Staub",
+                "name": "Novas Quidditch",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3514992,
+                    48.8566101
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Bastien Lucas-Duplessis  - C\u00e9dric Chillan",
+                "name": "Paris  Frog Quidditch",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.0939658,
+                    49.4404591
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Lucie Barada",
+                "name": "Rouen Skrewts",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3514992,
+                    48.8566101
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Valentin Farese - Etienne Pogu",
+                "name": "Titans Paris Quidditch",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.4442469,
+                    43.6044622
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Thomas Marguet",
+                "name": "Toulouse Quidditch",
+                "recognised": true
             },
             "type": "Feature"
         },
@@ -1017,6 +1422,246 @@
                 "captain": "",
                 "name": "Galway Grindylows",
                 "recognised": false
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    13.6111287623982,
+                    42.1373025
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Livio Arcidiacono",
+                "name": "AQ Vulcanica",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    7.265821,
+                    45.0297323
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "",
+                "name": "Aquilae Tridentum Quidditch",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    8.4285763,
+                    44.437165
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Nicol\u00f2 Cerri & Daniele Belotti",
+                "name": "Bombarda Brixia Quidditch Club",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    16.8620293,
+                    41.1257843
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Bari*                         - Niccol\u00f2 Andrea Carissimo",
+                "name": "Cerberus Quidditch",
+                "recognised": false
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    8.9338624,
+                    44.40726
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Marcello Masetti",
+                "name": "Cinghiali Volanti Genova Quidditch",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    11.7655622,
+                    46.0609131
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Tauros Quidditch Torino*             - Wolly Benfadel & Aleandro Bulcari",
+                "name": "Green",
+                "recognised": false
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    11.3430347,
+                    44.4936714
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Alberto Teddy Nicolini",
+                "name": "Hinkypunks Bologna Quidditch",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    11.7141233,
+                    44.3535145
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Luca Riotto",
+                "name": "Imola Hurricane Quidditch",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    17.945526,
+                    40.6395295
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Andrea Miglietta",
+                "name": "Lunatica Quidditch Club",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    9.1904984,
+                    45.4667971
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Michele Clabassi & Gianluca Tenzone",
+                "name": "Milano Meneghins Quidditch",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    9.1904984,
+                    45.4667971
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Dennis Rossini",
+                "name": "Milano Pink Unicorns",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.3890104,
+                    43.1119613
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Gloria Vincenti",
+                "name": "Perugia Gryphons Quidditch",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    14.2138702,
+                    42.4645837
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Pio Baccari",
+                "name": "Pescara Spartans Quidditch",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    11.3316533,
+                    43.3185536
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Francesco Pacciani",
+                "name": "Siena Ghibellines Quidditch Club",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    18.1718482,
+                    40.3570373
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "",
+                "name": "Tarantulae Quidditch Lecce",
+                "recognised": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    8.587417,
+                    40.484057
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "captain": "Giorgia Quinti",
+                "name": "Virtute Romana Quidditch",
+                "recognised": true
             },
             "type": "Feature"
         },

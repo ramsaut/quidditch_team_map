@@ -3,9 +3,17 @@
         50.110653,
         8.682093
     ],
+    "AQ Vulcanica": [
+        42.1373025,
+        13.6111287623982
+    ],
     "Alcorc\u00f3n Stags": [
         40.3467624,
         -3.8286315
+    ],
+    "Aquilae Tridentum Quidditch": [
+        45.0297323,
+        7.265821
     ],
     "Ardea Furens CUSPO": [
         41.608712,
@@ -27,6 +35,10 @@
         60.3943532,
         5.325551
     ],
+    "Bacchus Bordeaux Quidditch": [
+        44.841225,
+        -0.5800363
+    ],
     "Bangor Broken Broomsticks": [
         53.2277187,
         -4.1268821
@@ -38,6 +50,10 @@
     "Bath Quidditch Club (Bathilisks)": [
         51.3813864,
         -2.3596962
+    ],
+    "Bayards d'argent (Reims-Charleville)": [
+        49.7795851,
+        4.7037832
     ],
     "Belfast": [
         54.5969869,
@@ -91,6 +107,10 @@
         52.6779686,
         9.6180785
     ],
+    "Bombarda Brixia Quidditch Club": [
+        44.437165,
+        8.4285763
+    ],
     "Bristol Brizzlepuffs (Bears)": [
         51.453493,
         -2.5973936
@@ -103,13 +123,21 @@
         49.1922443,
         16.6113382
     ],
-    "Broom Breakers Quidditch": [
-        48.8123052,
-        9.1590308
-    ],
     "Broomicorns Braunschweig": [
         52.2639962,
         10.5252669
+    ],
+    "Bruges Bridgebacks": [
+        51.2082905,
+        3.2261497
+    ],
+    "Brussels Qwaffles": [
+        50.8465565,
+        4.351697
+    ],
+    "Burning Hippogriffs de Caen": [
+        49.1828008,
+        -0.3690814
     ],
     "Cambrai  Quidditch": [
         50.1759602,
@@ -123,17 +151,33 @@
         48.7172272,
         21.2496774
     ],
+    "Cerberus Quidditch": [
+        41.1257843,
+        16.8620293
+    ],
     "Chester Centurions": [
         53.1908873,
         -2.8908954
+    ],
+    "Cinghiali Volanti Genova Quidditch": [
+        44.40726,
+        8.9338624
     ],
     "Club Jerez Quidditch": [
         36.6816936,
         -6.1377401
     ],
+    "Comrunos Animagix (Clermont-Ferrand)": [
+        45.7774551,
+        3.0819427
+    ],
     "Cork": [
         51.8979282,
         -8.4705805
+    ],
+    "Crookshanks Lyon Quidditch": [
+        45.7578137,
+        4.8320114
     ],
     "Danube Direwolves": [
         48.1788209,
@@ -154,6 +198,14 @@
     "Derby": [
         52.9212617,
         -1.476149
+    ],
+    "Deurne Dodo A": [
+        51.20849,
+        4.4719297
+    ],
+    "Deurne Dodo B": [
+        51.20849,
+        4.4719297
     ],
     "Dinosaur's Army (Vigo)": [
         42.2376602,
@@ -215,13 +267,25 @@
         42.8464529,
         -2.6724096
     ],
+    "Ghent Gargoyles": [
+        51.0538286,
+        3.7250121
+    ],
     "Gigantes de Arousa": [
         42.5622257,
         -8.826565
     ],
+    "Golden Owls de Dijon": [
+        47.3215806,
+        5.0414701
+    ],
     "Gothenburg Griffins": [
         57.7072326,
         11.9670171
+    ],
+    "Green": [
+        46.0609131,
+        11.7655622
     ],
     "Grenoble Muggle Quidditch": [
         45.182151,
@@ -239,9 +303,17 @@
         52.3744779,
         9.7385532
     ],
+    "Hasselt Horntails": [
+        50.9303735,
+        5.3378043
+    ],
     "Heidelberger Hellhounds": [
         49.4093582,
         8.694724
+    ],
+    "Hinkypunks Bologna Quidditch": [
+        44.4936714,
+        11.3430347
     ],
     "Hipogrifos Cieza": [
         38.2391277,
@@ -270,6 +342,10 @@
     "ITU Honeybees": [
         41.1080367,
         29.0208993
+    ],
+    "Imola Hurricane Quidditch": [
+        44.3535145,
+        11.7141233
     ],
     "Imperius Zaragoza": [
         40.8833884,
@@ -311,9 +387,25 @@
         52.6367811,
         -1.1312288
     ],
+    "Les Dracognards": [
+        50.6741689,
+        4.61415673172108
+    ],
     "Les Druides d'Orl\u00e9ans": [
         47.9027336,
         1.9086066
+    ],
+    "Les Faucons fran\u00e7ais": [
+        48.8566101,
+        2.3514992
+    ],
+    "Les Harfangs d'Angers": [
+        47.4739884,
+        -0.5515587
+    ],
+    "Les Hermines de Rennes, Ermined Roazhon": [
+        48.1113387,
+        -1.6800197
     ],
     "Les Magyars \u00e0 pintes Tours": [
         47.3900474,
@@ -322,6 +414,10 @@
     "Les Maraudeurs de Rennes Bruz": [
         48.0254614,
         -1.7373357
+    ],
+    "Les Namusards": [
+        50.4665284,
+        4.8661892
     ],
     "Les Requins Rouges": [
         46.0363902,
@@ -335,6 +431,10 @@
         48.2971626,
         4.0746257
     ],
+    "Leuven Leprechauns": [
+        50.879202,
+        4.7011675
+    ],
     "Levante Phoenix": [
         39.4699014,
         -0.3759512
@@ -346,6 +446,14 @@
     "Lilium Florentia": [
         43.7698712,
         11.2555757
+    ],
+    "Lille  Black Snitches": [
+        50.6305089,
+        3.0706414
+    ],
+    "Li\u00e8ge Leviathans": [
+        50.6451381,
+        5.5734203
     ],
     "London Unspeakables": [
         51.5073219,
@@ -374,6 +482,10 @@
     "Lumos Compostela": [
         42.8804219,
         -8.5458607
+    ],
+    "Lunatica Quidditch Club": [
+        40.6395295,
+        17.945526
     ],
     "METU Minicorns": [
         39.87549675,
@@ -410,6 +522,14 @@
     "Marseille": [
         43.2961743,
         5.3699525
+    ],
+    "Milano Meneghins Quidditch": [
+        45.4667971,
+        9.1904984
+    ],
+    "Milano Pink Unicorns": [
+        45.4667971,
+        9.1904984
     ],
     "Montpellier quidditch": [
         43.6112422,
@@ -451,6 +571,10 @@
         52.9534161,
         -1.1492772
     ],
+    "Novas Quidditch": [
+        -17.0548848,
+        42.7246482
+    ],
     "ODTU Hippogriffs": [
         39.87549675,
         32.7855350558467
@@ -475,9 +599,21 @@
         45.4077172,
         11.8734455
     ],
+    "Paris  Frog Quidditch": [
+        48.8566101,
+        2.3514992
+    ],
     "Paris Ph\u00e9nix": [
         48.8566101,
         2.3514992
+    ],
+    "Perugia Gryphons Quidditch": [
+        43.1119613,
+        12.3890104
+    ],
+    "Pescara Spartans Quidditch": [
+        42.4645837,
+        14.2138702
     ],
     "Pontevedra Q.C.": [
         42.36226445,
@@ -547,6 +683,10 @@
         51.92779805,
         4.48862326925829
     ],
+    "Rouen Skrewts": [
+        49.4404591,
+        1.0939658
+    ],
     "Ruhr Poenix (Bochum)": [
         51.4818036,
         7.2196595
@@ -582,6 +722,10 @@
     "Sheffield Squids": [
         53.3806626,
         -1.4702277
+    ],
+    "Siena Ghibellines Quidditch Club": [
+        43.3185536,
+        11.3316533
     ],
     "Silver Strasbrooms": [
         48.584614,
@@ -623,6 +767,10 @@
         51.6211442,
         -3.946775
     ],
+    "Tarantulae Quidditch Lecce": [
+        40.3570373,
+        18.1718482
+    ],
     "Taxes Quidditch": [
         51.5307532,
         -0.1041488
@@ -643,6 +791,14 @@
         49.7596208,
         6.6441878
     ],
+    "Titans Paris Quidditch": [
+        48.8566101,
+        2.3514992
+    ],
+    "Toulouse Quidditch": [
+        43.6044622,
+        1.4442469
+    ],
     "Trondheim Rumpeldunk": [
         63.4305658,
         10.3951929
@@ -654,6 +810,10 @@
     "T\u00fcbinger Thestrale": [
         48.5236164,
         9.0535531
+    ],
+    "UMonsters": [
+        50.4549568,
+        3.951958
     ],
     "UPOL Quidditch": [
         49.5943599,
@@ -682,6 +842,10 @@
     "Vienna Vanguards": [
         48.2083537,
         16.3725042
+    ],
+    "Virtute Romana Quidditch": [
+        40.484057,
+        8.587417
     ],
     "Wageningen Werewolves": [
         51.9685817,
@@ -714,5 +878,9 @@
     "Z\u00fcrich / Zurich Quidditch": [
         47.3685586,
         8.5404434
+    ],
+    "\u00c9l\u00e9phants": [
+        47.2186371,
+        -1.5541361
     ]
 }
